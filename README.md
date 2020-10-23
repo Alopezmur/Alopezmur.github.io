@@ -5,7 +5,7 @@ Pues, después de varios años dando tumbos en distintos tipos de grado sin sabe
 > ¿Y ahora que hago con mi vida? Buen pregunta.
 Alejandro López
 ---
-![Yo, o algo así](./img/mkw.jpg)
+![Yo, o algo así](/img/mkw.jpg)
 
 Así que prgunté a varios colegas que ya habían estudiado programación y me puse por mi cuenta a hacer algún que otro cursillo. Al final llegué a la conclusión de que programación sería una buena salida, ya sea por la oportunidades de trabajo o por como me llamó la atención.
 

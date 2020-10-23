@@ -1,4 +1,4 @@
-### ¿Por qué escogí11 estudiar programación?
+### ¿Por qué escogí estudiar programación?
 
 
 Pues, después de varios años dando tumbos en distintos tipos de grado sin saber muy bien qué hacer con mi vida, decidí que programación sería una buena salida. Sí, algunos estudios me salieron mejor que otros, pero aún no encontraba algo que de verdad me gustase.

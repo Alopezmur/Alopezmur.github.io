@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+### ¿Por qué escogí estudiar programación?
+Pues, después de varios años dando tumbos en distintos tipos de grado sin saber muy bien qué hacer con mi vida, decidí que programación sería una buena salida. Sí, algunos estudios me salieron mejor que otros, pero aún no encontraba algo que de verdad me gustase.
 
-You can use the [editor on GitHub](https://github.com/Alopezmur/Alopezmur.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> ¿Y ahora que hago con mi vida? Buen pregunta.
+Alejandro López
+---
+![Yo, o algo así](../img/mkw.jpg)
 
-### Markdown
+Así que prgunté a varios colegas que ya habían estudiado programación y me puse por mi cuenta a hacer algún que otro cursillo. Al final llegué a la conclusión de que programación sería una buena salida, ya sea por la oportunidades de trabajo o por como me llamó la atención.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Mientras espero a ver que pasa con mi vida, aquí me distraigo:
+[Reddit](https://www.reddit.com/r/dankmemes/)
 
 ### Jekyll Themes
 

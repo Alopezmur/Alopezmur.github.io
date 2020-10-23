@@ -12,10 +12,3 @@ Así que prgunté a varios colegas que ya habían estudiado programación y me p
 Mientras espero a ver que pasa con mi vida, aquí me distraigo:
 [Reddit](https://www.reddit.com/r/dankmemes/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alopezmur/Alopezmur.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
